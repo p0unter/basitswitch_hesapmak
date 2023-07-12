@@ -1,0 +1,17 @@
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\basit2sayi_hesapmak\basit2sayi_hesapmak\bin\Debug\net6.0-windows\basit2sayi_hesapmak.exe
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\basit2sayi_hesapmak\basit2sayi_hesapmak\bin\Debug\net6.0-windows\basit2sayi_hesapmak.deps.json
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\basit2sayi_hesapmak\basit2sayi_hesapmak\bin\Debug\net6.0-windows\basit2sayi_hesapmak.runtimeconfig.json
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\basit2sayi_hesapmak\basit2sayi_hesapmak\bin\Debug\net6.0-windows\basit2sayi_hesapmak.dll
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\basit2sayi_hesapmak\basit2sayi_hesapmak\bin\Debug\net6.0-windows\basit2sayi_hesapmak.pdb
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\basit2sayi_hesapmak\basit2sayi_hesapmak\obj\Debug\net6.0-windows\basit2sayi_hesapmak.csproj.AssemblyReference.cache
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\basit2sayi_hesapmak\basit2sayi_hesapmak\obj\Debug\net6.0-windows\basit2sayi_hesapmak.Form1.resources
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\basit2sayi_hesapmak\basit2sayi_hesapmak\obj\Debug\net6.0-windows\basit2sayi_hesapmak.csproj.GenerateResource.cache
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\basit2sayi_hesapmak\basit2sayi_hesapmak\obj\Debug\net6.0-windows\basit2sayi_hesapmak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\basit2sayi_hesapmak\basit2sayi_hesapmak\obj\Debug\net6.0-windows\basit2sayi_hesapmak.AssemblyInfoInputs.cache
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\basit2sayi_hesapmak\basit2sayi_hesapmak\obj\Debug\net6.0-windows\basit2sayi_hesapmak.AssemblyInfo.cs
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\basit2sayi_hesapmak\basit2sayi_hesapmak\obj\Debug\net6.0-windows\basit2sayi_hesapmak.csproj.CoreCompileInputs.cache
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\basit2sayi_hesapmak\basit2sayi_hesapmak\obj\Debug\net6.0-windows\basit2sayi_hesapmak.dll
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\basit2sayi_hesapmak\basit2sayi_hesapmak\obj\Debug\net6.0-windows\refint\basit2sayi_hesapmak.dll
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\basit2sayi_hesapmak\basit2sayi_hesapmak\obj\Debug\net6.0-windows\basit2sayi_hesapmak.pdb
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\basit2sayi_hesapmak\basit2sayi_hesapmak\obj\Debug\net6.0-windows\basit2sayi_hesapmak.genruntimeconfig.cache
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\basit2sayi_hesapmak\basit2sayi_hesapmak\obj\Debug\net6.0-windows\ref\basit2sayi_hesapmak.dll
